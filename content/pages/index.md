@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Klik hier
         altText: dewolwinkel.nl
-        url: /
+        url: 'https://www.dewolwinkel.nl'
         showIcon: false
         icon: arrowRight
         iconPosition: right
