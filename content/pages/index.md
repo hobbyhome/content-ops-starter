@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Ontdek Het Hier!
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Ben jij ook op zoek naar handwerk hobby artikelen of prachtige huis en
+      tuin decoratie? Lees dan verder op deze site en laat je inspireren met
+      beelden voor binnen en buiten. Zoek je luxe houtbouw of een nieuw
+      zonwering systeem? Ook dan ben je hier aan het juiste adres!
     actions:
       - label: Get started
         altText: ''
