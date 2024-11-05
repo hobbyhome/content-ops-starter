@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Handwerken",
-            "url": "/pricing",
+            "url": "/handwerken",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
