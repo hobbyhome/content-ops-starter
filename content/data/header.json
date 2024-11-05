@@ -4,19 +4,22 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Handwerken",
+            "url": "/handwerken",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "handwerken"
         },
         {
             "label": "Blog",
@@ -28,41 +31,44 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Houtbouw",
+            "altText": "houtbouw",
+            "url": "/houtbouw",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Beelden",
+            "altText": "Beelden",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Tuinbeelden",
+                    "url": "/tuinbeelden",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "tuinbeelden"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Boeddhabeelden",
+                    "url": "/boeddhabeeld",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Boeddha beelden"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Decoratie",
+                    "url": "/huis-tuin-decoratie",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Decoratie"
                 }
             ],
             "labelStyle": "secondary",
