@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: Huis Tuin Decoratie
         altText: boeddha-beelden.com
-        url: /
+        url: 'https://www.boeddha-beelden.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
