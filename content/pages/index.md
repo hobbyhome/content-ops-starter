@@ -34,7 +34,7 @@ sections:
         type: Link
     media:
       url: /images/Screenshot 2024-09-29 112728.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Lachende Boeddha
       elementId: ''
       type: ImageBlock
     badge:
