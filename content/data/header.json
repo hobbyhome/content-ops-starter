@@ -43,7 +43,7 @@
             "altText": "Beelden",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Tuinbeelden",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
