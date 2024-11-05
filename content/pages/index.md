@@ -745,9 +745,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: >-
-    Hobby huis en tuin decoratie informatie. Ideeen voor houtbouw en zonwering
-    systemen bij woning en in tuin
+  metaTitle: Hobby huis en tuin decoratie houtbouw zonwering systemen
   metaDescription: >-
     Hobby huis en tuin decoratie informatie. Ideeen voor houtbouw en zonwering
     systemen bij woning en in tuin
