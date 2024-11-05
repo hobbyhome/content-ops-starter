@@ -14,7 +14,7 @@ sections:
       beelden voor binnen en buiten. Zoek je luxe houtbouw of een nieuw
       zonwering systeem? Ook dan ben je hier aan het juiste adres!
     actions:
-      - label: Get started
+      - label: Klik hier
         altText: ''
         url: /
         showIcon: false
