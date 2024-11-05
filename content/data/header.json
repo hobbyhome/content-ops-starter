@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Boeddhabeelden",
-                    "url": "/",
+                    "url": "/boeddhabeeld",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
