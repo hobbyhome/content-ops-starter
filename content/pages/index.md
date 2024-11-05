@@ -748,7 +748,9 @@ seo:
   metaTitle: >-
     Hobby huis en tuin decoratie informatie. Ideeen voor houtbouw en zonwering
     systemen bij woning en in tuin
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Hobby huis en tuin decoratie informatie. Ideeen voor houtbouw en zonwering
+    systemen bij woning en in tuin
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
