@@ -15,7 +15,7 @@ sections:
       zonwering systeem? Ook dan ben je hier aan het juiste adres!
     actions:
       - label: Klik hier
-        altText: ''
+        altText: dewolwinkel.nl
         url: /
         showIcon: false
         icon: arrowRight
