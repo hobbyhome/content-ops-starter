@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Hobby Huis en Tuin
       color: text-primary
       type: Badge
     elementId: ''
