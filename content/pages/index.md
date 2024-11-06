@@ -289,7 +289,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: De toekomst van Eco logische houtbouw
       color: text-dark
       styles:
         self:
