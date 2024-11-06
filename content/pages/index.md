@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Zonwering
-        subtitle: Faster
+        subtitle: Overkappingen
         text: >
           Met de meest moderne zonweringen weer je niet alleen de zon, maar kun
           je ook de buiten ruimte prachtig uitbreiden. Een
