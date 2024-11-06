@@ -253,7 +253,7 @@ sections:
       mogelijkheden om geavanceerde webprojecten schaalbaar te maken.
 
     media:
-      title: Title of the video
+      title: Houtstapelbouw Woning
       url: 'https://www.youtube.com/watch?v=pT7-EwOeBBk'
       controls: false
       aspectRatio: '16:9'
