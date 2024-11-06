@@ -65,10 +65,9 @@ sections:
       - type: FeaturedItem
         title: Hobbies
         subtitle: Breien en haken
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Wist je dat breien en haken heel gezond is? Het brengt mensen in een
+          meditatieve staat en is heel ontspannend!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
