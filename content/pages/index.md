@@ -171,7 +171,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Prijs winnende ondernemingen die Netlify vertrouwen
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
