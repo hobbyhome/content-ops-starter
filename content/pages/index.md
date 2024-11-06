@@ -239,11 +239,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Gebruik Netlify Voor Diverse Doeleinden
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Netlify.com is een cloud-gebaseerd platform dat ontwikkelaars helpt om
+      websites en webapplicaties eenvoudig te bouwen, te beheren en te hosten.
+      Het ondersteunt moderne webframeworks en statische sitegenerators, zoals
+      React, Vue, en Next.js, en biedt een naadloze integratie met Git, zodat
+      code automatisch wordt gedeployed bij elke wijziging. Met functies zoals
+      continuous deployment, serverloze functies en ingebouwde CDN (Content
+      Delivery Network) zorgt Netlify voor snelle laadtijden en betrouwbare
+      prestaties. Het platform is populair bij developers vanwege de
+      gebruiksvriendelijke interface, automatiseringstools en krachtige
+      mogelijkheden om geavanceerde webprojecten schaalbaar te maken.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
