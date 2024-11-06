@@ -87,7 +87,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: '/images/Borduur, haak en breiwebshop dewolwinkel.nl .jpg'
           styles:
             self:
               borderRadius: x-large
