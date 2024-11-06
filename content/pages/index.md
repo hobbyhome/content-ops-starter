@@ -98,7 +98,7 @@ sections:
           explicabo.
         image:
           url: /images/mooiste boeddha beeld.jpg
-          altText: Featured icon two
+          altText: Mooiste Boeddha Beeld
           elementId: ''
           type: ImageBlock
         actions: []
