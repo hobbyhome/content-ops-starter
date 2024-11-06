@@ -312,7 +312,7 @@ sections:
 
     actions: []
     media:
-      title: Title of the video
+      title: Vrijstaande houtbouw woning
       url: 'https://www.youtube.com/watch?v=uK6hwDlYrOQ'
       autoplay: true
       loop: true
