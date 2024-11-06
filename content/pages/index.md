@@ -85,7 +85,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: 'Breien en haken '
           elementId: ''
           url: '/images/Borduur, haak en breiwebshop dewolwinkel.nl .jpg'
           styles:
