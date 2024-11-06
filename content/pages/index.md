@@ -296,11 +296,20 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Houtbouw op maat
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Houtbouw is een bouwmethode waarbij hout als het belangrijkste
+      constructiemateriaal wordt gebruikt. Door de unieke eigenschappen van
+      hout, zoals zijn lichte gewicht, natuurlijke isolatiewaarde en
+      CO₂-opslagcapaciteit, wordt [houtbouw](https://www.oljahoutbouw.nl) steeds
+      populairder, vooral in duurzaam bouwen. Deze techniek biedt voordelen op
+      het gebied van milieu, omdat hout een hernieuwbare grondstof is en de
+      CO₂-uitstoot aanzienlijk verlaagt ten opzichte van traditionele
+      bouwmaterialen zoals beton en staal. Moderne houtbouw maakt gebruik van
+      innovatieve technieken, zoals CLT (Cross Laminated Timber), waarmee
+      sterke, massieve houtconstructies mogelijk zijn die geschikt zijn voor
+      zowel woningen als hoogbouw.
+
     actions: []
     media:
       title: Title of the video
