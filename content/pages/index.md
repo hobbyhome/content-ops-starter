@@ -63,7 +63,7 @@ sections:
     subtitle: Vind hier de leukste ideeen!
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Hobbies
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
