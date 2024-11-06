@@ -254,7 +254,7 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtube.com/shorts/I2v7YuiVu4U?si=SFil5u7xz6qM0swi'
       controls: false
       aspectRatio: '16:9'
       styles:
