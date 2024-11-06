@@ -232,7 +232,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Laat je business 10x sneller groeien
       color: text-dark
       styles:
         self:
