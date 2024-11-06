@@ -92,10 +92,12 @@ sections:
               borderRadius: x-large
       - title: Decoratie
         subtitle: Huis en Tuin
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Een mooi decoratief beeld van bijvoorbeeld een Boeddha, kan een heel
+          andere sfeer brengen in je huis of tuin. Bekijk prachtige beelden voor
+          binnen en buiten op
+          [deboeddhaspecialist.nl](https://deboeddhaspecialist.nl) en ontdek het
+          zelf!
         image:
           url: /images/mooiste boeddha beeld.jpg
           altText: Mooiste Boeddha Beeld
