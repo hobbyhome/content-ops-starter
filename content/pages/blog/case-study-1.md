@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/boeddha beeldjes.jpg
-  altText: Case study 1
+  altText: Boeddha Beeldjes
   styles:
     self:
       borderRadius: large
