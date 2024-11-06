@@ -142,7 +142,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Meer Informatie
         altText: ''
         url: 'https://nl.wikipedia.org/wiki/Breien_(textiel)'
         showIcon: false
