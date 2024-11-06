@@ -144,7 +144,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://nl.wikipedia.org/wiki/Breien_(textiel)'
         showIcon: false
         icon: arrowRight
         iconPosition: right
