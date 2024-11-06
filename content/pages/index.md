@@ -119,10 +119,11 @@ sections:
         type: FeaturedItem
       - title: Zonwering
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Met de meest moderne zonweringen weer je niet alleen de zon, maar kun
+          je ook de buiten ruimte prachtig uitbreiden. Een
+          [zonweringsbedrijf](https://www.veluwzon.nl) vind je snel bij jouw in
+          de buurt.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
