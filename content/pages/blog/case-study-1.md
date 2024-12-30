@@ -29,9 +29,15 @@ bottomSections:
       - title: Over deboeddhaspecialist.nl
         tagline: Grootste Boeddha Winkel in Benelux
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Bij De Boeddha Specialist delen we onze passie voor rust,
+          spiritualiteit en harmonie. Als dé expert in Boeddha beeldjes en
+          spirituele decoratie bieden we een zorgvuldig geselecteerd assortiment
+          van hoogwaardige beeldjes, elk met een unieke betekenis en
+          uitstraling. Of je nu op zoek bent naar een bron van inspiratie,
+          innerlijke balans of een prachtig geschenk, bij ons vind je altijd
+          iets bijzonders.Met kennis, persoonlijke service en aandacht voor
+          detail helpen we je graag om de perfecte keuze te maken. Laat ons jouw
+          gids zijn in het creëren van een serene en betekenisvolle omgeving.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
