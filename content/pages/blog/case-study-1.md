@@ -39,7 +39,7 @@ bottomSections:
           detail helpen we je graag om de perfecte keuze te maken. Laat ons jouw
           gids zijn in het creëren van een serene en betekenisvolle omgeving.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Screenshot 2024-09-29 112728.jpg
           altText: Company logo
           styles:
             self:
