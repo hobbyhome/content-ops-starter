@@ -12,12 +12,6 @@ sections:
           textAlign: left
     subtitle: Inleiding
     text: >
-      # Boeddha: Een Complete Gids over Zijn Leven, Leer en Decoratie
-
-
-      ## Inleiding
-
-
       Boeddha, geboren als Siddhartha Gautama rond 563 v.Chr. in Lumbini (het
       huidige Nepal), is de grondlegger van het boeddhisme. Zijn leven en
       leerstellingen hebben een diepgaande invloed gehad op miljoenen mensen
@@ -181,7 +175,6 @@ sections:
       Met deze uitgebreide gids over Boeddha en Boeddha-decoratie hopen we dat
       je de juiste inspiratie vindt voor jouw spirituele en esthetische
       behoeften.
-
 
 
       Boeddha winkels:
