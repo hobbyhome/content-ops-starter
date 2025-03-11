@@ -197,7 +197,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtube.com/shorts/62EMknGUSEI?si=uA2ZJGpvyynlfdIy'
+      url: 'https://youtube.com/shorts/mYUSnthZOD8?si=Dfbk78TWYlrMIHsn'
       autoplay: true
       loop: true
       muted: true
