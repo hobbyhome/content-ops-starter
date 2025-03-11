@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Inleiding
     text: >
       # Boeddha: Een Complete Gids over Zijn Leven, Leer en Decoratie
 
