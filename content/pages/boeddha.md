@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Boeddha: Een Complete Gids over Zijn Leven, Leer en Decoratie'
       color: text-dark
       styles:
         self:
