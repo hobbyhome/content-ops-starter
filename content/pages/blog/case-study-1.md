@@ -92,6 +92,8 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+seo:
+  type: Seo
 ---
 ### Boeddha Beeldjes: Betekenis, Soorten en Tips voor Gebruik
 
