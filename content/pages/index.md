@@ -239,8 +239,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Gebruik Netlify Voor Diverse Doeleinden
-    text: >+
-
+    text: >
       Netlify.com is een cloud-gebaseerd platform dat ontwikkelaars helpt om
       websites en webapplicaties eenvoudig te bouwen, te beheren en te hosten.
       Het ondersteunt moderne webframeworks en statische sitegenerators, zoals
@@ -252,6 +251,8 @@ sections:
       gebruiksvriendelijke interface, automatiseringstools en krachtige
       mogelijkheden om geavanceerde webprojecten schaalbaar te maken.
 
+
+      [Houtbouw](https://hobbyhomegarden.netlify.app/houtbouw/)
     media:
       title: Houtstapelbouw Woning
       url: 'https://www.youtube.com/watch?v=pT7-EwOeBBk'
